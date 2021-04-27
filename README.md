@@ -28,3 +28,9 @@ CREATING BRANCHES
 
 NAVIGATING BRANCHES
 -git checkout name-of-branch -> moved us onto it
+
+PUSHING A BRANCH
+-git push origin main name-of-branch -> push branch to remote
+-origin -> remote -> github
+-name-of-branch ->branch with changes we want to add
+
